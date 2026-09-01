@@ -1,0 +1,7 @@
+{
+    "elements": {
+        "jsp:setProperty": {},
+        "jsp:useBean": {}
+    },
+    "attributes": {}
+}
